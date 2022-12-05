@@ -1,3 +1,3 @@
-# Test App
+# Deploy Test (JS)
 
-This repo is for testing JS app Deploy.
+This repo is for testing Web-App Deploy written in JavaScript.
