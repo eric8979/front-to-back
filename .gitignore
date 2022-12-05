@@ -1,8 +1,2 @@
 .DS_Store
-
-# js
 node_modules
-
-# py
-__pycache__
-venv
